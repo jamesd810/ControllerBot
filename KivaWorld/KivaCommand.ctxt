@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n\ Write\ a\ description\ of\ Directions\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=directionKey
+comment1.target=KivaCommand(char)
+comment2.params=
+comment2.target=char\ getDirectionKey()
+comment2.text=\r\n\ Returns\ the\ char\ associated\ with\ its\ KivaCommand.\r\n\ Direction\ Keys\:\ 'F','L','R','T','D'.\r\n
+numComments=3
