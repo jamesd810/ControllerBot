@@ -1,8 +1,9 @@
 import edu.duke.FileResource;
 /**
- * Write a description of Directions here.
+ * This KivaCommand class contains the directions
+ *the kiva will move.
  * 
- * @author (your name) 
+ * @author (James) 
  * @version (a version number or a date)
  */
 
