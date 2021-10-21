@@ -1,8 +1,9 @@
 import edu.duke.Point;
 /**
- * Write a description of KivaMoveTest here.
+ * This class test the Kiva class and throws and exception
+ * when a move is input incorrecty.
  * 
- * @author (James Dobson 
+ * @author (James) 
  */
 public class KivaMoveTest {
 // Define the FloorMap we'll use for all the tests
