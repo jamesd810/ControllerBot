@@ -1,8 +1,9 @@
 import edu.duke.FileResource;
 /**
- * Write a description of KivaCommandTester here.
+ * this class was made to test the moves made in the
+ * KivaCommand class.
  * 
- * @author (your name) 
+ * @author (James) 
  * @version (a version number or a date)
  */
 public class KivaCommandTester {
