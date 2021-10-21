@@ -2,10 +2,11 @@ import java.util.Arrays;
 import edu.duke.Point;
 
 /**
- * Write a description of RemoteControlTest here.
+ * This class tests the moves made from the RemoteControl
+ * class
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (James) 
+ * 
  */
 public class RemoteControlTest {
     /**
